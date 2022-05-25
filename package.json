@@ -6,8 +6,12 @@
     "axios": "^0.27.2",
     "cors": "^2.8.5",
     "curl": "^0.1.4",
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "filereader": "^0.10.3",
     "ngrok": "^4.3.1",
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.16",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
   }
 }
